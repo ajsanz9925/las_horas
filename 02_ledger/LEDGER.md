@@ -1,8 +1,17 @@
-# Ledger técnico
+# LEDGER — Las horas
 
-Capítulo 1
-- Bloque 1.1 → 1002 palabras → Validado → 05-02-2026
-- Bloque 1.2 → 945 palabras → Borrador → 06-02-2026
+## Estado de capítulos
+| Capítulo | Archivo | Estado | Palabras (real) | Observaciones |
+|---|---|---|---:|---|
+| 01 | 01_manuscrito/cap_01.md | | | |
+| 02 | 01_manuscrito/cap_02.md | | | |
+| 03 | 01_manuscrito/cap_03.md | | | |
+| 04 | 01_manuscrito/cap_04.md | | | |
 
-Total capítulo: 1947 palabras
-Estado: En desarrollo
+## Incidencias recurrentes (check rápido)
+- [ ] “no por X sino por Y”
+- [ ] cierres conclusivos (“el día siguió…”)
+- [ ] gerundios en cadena
+- [ ] pensamiento explícito
+- [ ] erotismo explicado en vez de mostrado
+- [ ] pérdida de clase en espacios con clase
