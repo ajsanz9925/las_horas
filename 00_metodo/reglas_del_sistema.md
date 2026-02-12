@@ -39,3 +39,9 @@
 ## 7. Regla de cierre
 - Prohibidos los cierres explicativos o conclusivos.
 - Un capítulo termina en **posición** (desajuste, residuo, desplazamiento), no en idea ni moraleja.
+
+
+Convención de numeración:
+- Capítulos con dos dígitos (cap_01.md).
+- Bloques numerados como X.Y.
+
